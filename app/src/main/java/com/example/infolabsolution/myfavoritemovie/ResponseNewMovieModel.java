@@ -1,3 +1,9 @@
+
+/*
+ * Copyright (c) by Fajar Nugraha Wahyu 3/22/18 10:33 AM 2018.
+ * Very Original All rights reserved
+ */
+
 package com.example.infolabsolution.myfavoritemovie;
 
 import com.google.gson.annotations.SerializedName;
